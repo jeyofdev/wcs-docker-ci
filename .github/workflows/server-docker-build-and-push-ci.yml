@@ -27,4 +27,4 @@ jobs:
               with:
                   context: ./server
                   push: true
-                  tags: jeyofdev/app:latest
+                  tags: jeyofdev/quete1902:latest
